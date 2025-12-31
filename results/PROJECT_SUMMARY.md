@@ -1,4 +1,4 @@
-# Podcast Recommendation System - Query Results
+# Podcast Recommendation System - Summary
 
 **Project**: Vector Database Podcast Recommendation System
 **Dataset**: Lex Fridman Podcast (346 episodes, 832,839 segments)
