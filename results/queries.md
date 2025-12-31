@@ -1,4 +1,4 @@
-# Podcast Recommendation System - Query Results
+# Podcast Recommendation System - Queries
 
 Generated: 2025-12-18 20:09:15
 
