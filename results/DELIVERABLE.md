@@ -313,7 +313,3 @@ Results focus on fundamental physics questions, including dark energy specifical
 
 ### Q6: Balaji Srinivasan Similarity
 Most similar episodes discuss economics, politics, government, and societal systems. Tyler Cowen's episode on economic growth is most similar (distance: 0.1195), suggesting strong thematic alignment on institutional topics.
-
----
-
-**End of Deliverable**
